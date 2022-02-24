@@ -1,0 +1,8 @@
+explainerdashboard==0.3.8
+numpy==1.19.2
+pandas==1.4.1
+psycopg2==2.8.6
+pycaret==2.3.6
+requests==2.26.0
+scikit_learn==1.0.2
+streamlit==1.5.1
