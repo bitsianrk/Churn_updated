@@ -32,3 +32,4 @@ numba<0.55
 pycaret==2.3.6
 requests==2.26.0
 streamlit
+pyscopg2
